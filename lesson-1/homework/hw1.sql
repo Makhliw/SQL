@@ -43,11 +43,11 @@ CREATE TABLE STUDENTS (
 
  -- HARD - Beginning
  -- Research and explain the different SQL commands: DQL, DML, DDL, DCL, TCL with examples.
---dql - data  query language - queries writing commands - чтение данных (запросы) - select from 
---dml - data manipulation language  - upadating/deleting/inserting and etc - работа с данными, их изменение, добавление и тд 
---ddl - data definition language - creating or changing data - созадание или изменение данных - create, alter, drop
---dcl - data controp language - assess control - управление доступом - grand, revoke
---tcl - transaction control language - управление транзакциями - commit, rollback, savepoint
+--dql - data  query language - queries writing commands - Г·ГІГҐГ­ГЁГҐ Г¤Г Г­Г­Г»Гµ (Г§Г ГЇГ°Г®Г±Г») - select from 
+--dml - data manipulation language  - upadating/deleting/inserting and etc - Г°Г ГЎГ®ГІГ  Г± Г¤Г Г­Г­Г»Г¬ГЁ, ГЁГµ ГЁГ§Г¬ГҐГ­ГҐГ­ГЁГҐ, Г¤Г®ГЎГ ГўГ«ГҐГ­ГЁГҐ ГЁ ГІГ¤ 
+--ddl - data definition language - creating or changing data - Г±Г®Г§Г Г¤Г Г­ГЁГҐ ГЁГ«ГЁ ГЁГ§Г¬ГҐГ­ГҐГ­ГЁГҐ Г¤Г Г­Г­Г»Гµ - create, alter, drop
+--dcl - data controp language - assess control - ГіГЇГ°Г ГўГ«ГҐГ­ГЁГҐ Г¤Г®Г±ГІГіГЇГ®Г¬ - grand, revoke
+--tcl - transaction control language - ГіГЇГ°Г ГўГ«ГҐГ­ГЁГҐ ГІГ°Г Г­Г§Г ГЄГ¶ГЁГїГ¬ГЁ - commit, rollback, savepoint
 
  --Write a query to insert three records into the Students table.
 
